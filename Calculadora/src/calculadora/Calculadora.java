@@ -6,6 +6,9 @@ import java.util.Scanner;
 
 
 public class Calculadora {
+//Este es un comentario añadido mediante un fork.
+//No me gusta esta calculadora le faltan derivadas ,integrales y el tetris.
+
 
     //Creamos la funcion Para enseñar el menu
     static void menu(){
